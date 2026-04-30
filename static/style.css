@@ -1,0 +1,62 @@
+
+.body1 {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    background-color: #f5f5f5;
+}
+
+.h11 {
+    color: #333;
+}
+
+.a1 {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.a1:hover {
+    background-color: #0056b3;
+}
+  
+/* Login Page*/
+
+.body2 {
+    font-family: Arial;
+    text-align: center;
+    margin-top: 100px;
+    background-color: #f5f5f5;
+}
+
+.form2 {
+    background: white;
+    display: inline-block;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.input2 {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    width: 200px;
+}
+
+.button2 {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px; 
+}
+
+.button2:hover {
+    background-color: #0056b3;
+}
+
